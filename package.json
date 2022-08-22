@@ -1,0 +1,25 @@
+{
+  "name": "novo-projer-api-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeferson350/novo-projer-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeferson350/novo-projer-api/issues"
+  },
+  "homepage": "https://github.com/Jeferson350/novo-projer-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "typeorm": "^0.3.7",
+    "yarn": "^1.22.19"
+  }
+}
